@@ -28,3 +28,7 @@ INSERT INTO
 VALUES
     (5, 'Leia', 1.5, 1, '3093-08-11');
 
+INSERT INTO
+    personagem (id, nome, altura, destaque, nascimento)
+VALUES
+    (6, 'Yoda', 1.1, 1, '2060-03-30');

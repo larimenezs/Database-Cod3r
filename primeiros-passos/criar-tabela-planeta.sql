@@ -1,4 +1,3 @@
-USE starwars;
 
 CREATE TABLE IF NOT EXISTS planeta (
     id INT,

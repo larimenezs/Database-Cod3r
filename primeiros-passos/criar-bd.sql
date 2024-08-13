@@ -1,1 +1,1 @@
-create database starwars
+CREATE DATABASE starwars;

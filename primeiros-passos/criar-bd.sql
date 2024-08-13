@@ -1,2 +1,4 @@
-CREATE DATABASE starwars;
+CREATE DATABASE IF NOT EXISTS starwars;
+
+
 

@@ -18,12 +18,13 @@ INSERT INTO
 VALUES 
     (4, 'Jabba', 1.75, false, '3060-05-11');
 
-INSERT INTO 
+INSERT INTO
     personagem (id, nome, altura, destaque, nascimento)
-VALUES 
+VALUES
     (5, 'Snoke', 2.10, 0, '2097-04-08');
 
-INSERT INTO 
+INSERT INTO
     personagem (id, nome, altura, destaque, nascimento)
-VALUES 
+VALUES
     (5, 'Leia', 1.5, 1, '3093-08-11');
+

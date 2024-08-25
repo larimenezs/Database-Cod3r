@@ -1,1 +1,2 @@
-CREATE SCHAMA IF NOT EXISTS tipos_dados;
+CREATE DATABASE IF NOT EXISTS tipos_dados;
+

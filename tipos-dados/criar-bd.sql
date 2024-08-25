@@ -1,0 +1,1 @@
+CREATE SCHAMA IF NOT EXISTS tipos_dados;
